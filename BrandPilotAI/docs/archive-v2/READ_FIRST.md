@@ -1,0 +1,1 @@
+Historical Version 2 handoff documents, retained for provenance. Claims and timestamps in these files were inherited, not independently verified in this session. Use the root README and current docs for the actual delivered state. Do not use the old judging weights as verified event criteria.
